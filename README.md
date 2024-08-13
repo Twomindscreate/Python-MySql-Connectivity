@@ -1,2 +1,5 @@
 # Python MySql Connectivity
- using mysql create databse 
+
+
+ Perform CRUD operations using python, Mysql
+ 
